@@ -2,8 +2,8 @@
 
 ## Instructions
 
-Please compile and run SumOfIDs.java with the file path to your text.txt file as parameter. 
+Please compile and run `SumOfIDs.java` with the file path to your `test.txt` file as parameter. 
 
 For example:
  
-  `java SumOfIDs text.txt`
+  `java SumOfIDs test.txt`
