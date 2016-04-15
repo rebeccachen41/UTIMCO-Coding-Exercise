@@ -9,7 +9,7 @@ Please run `SumOfIDs.class` with the file path to your `test.txt` file as parame
 
 For example:
  
-  C:\Users\Rebecca>cd C:\Users\Rebecca\workspace\UTIMCO-Coding-Exercise
+  `C:\Users\Rebecca>cd C:\Users\Rebecca\workspace\UTIMCO-Coding-Exercise`
   
-  C:\Users\Rebecca\workspace\UTIMCO-Coding-Exercise> java SumOfIDs test.txt
+  `C:\Users\Rebecca\workspace\UTIMCO-Coding-Exercise> java SumOfIDs test.txt`
   
